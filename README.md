@@ -19,14 +19,14 @@ uv run python src/analyze.py
 
 
 ## Expected output age
--count 3.0
--mean 54.0
--std 7.0
--min 47.0
--25% 50.5
--50% 54.0
--75% 57.5
--max 61.0
+--count 3.0
+--mean 54.0
+--std 7.0
+--min 47.0
+--25% 50.5
+--50% 54.0
+--75% 57.5
+--max 61.0
 
 
 ## Project structure
