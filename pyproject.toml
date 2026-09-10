@@ -1,0 +1,19 @@
+[project]
+name = "lab1-repro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Afrah Beshir", email = "afrah.beshir@gwmail.gwu.edu" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.5",
+]
+
+[project.scripts]
+lab1-repro = "lab1_repro:main"
+
+[build-system]
+requires = ["uv_build>=0.12.11,<0.13.0"]
+build-backend = "uv_build"
