@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab 1: Reproducible Computing Setup-Afrah Beshir
 
 ## What this is
